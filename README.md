@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project is a **UI automation framework** developed using Selenium and TestNG.
+This project is a UI automation framework developed using Selenium and TestNG.
 
-It automates key user workflows of an e-commerce application, including login, product selection, and cart validation.
+It automates key user workflows of an e-commerce application such as login, product selection, and cart validation, improving test efficiency and reducing manual effort.
 
 ---
 
@@ -58,6 +58,13 @@ It automates key user workflows of an e-commerce application, including login, p
   * Pass / Fail status
   * Error logs
   * Screenshots on failure
+
+---
+
+## 📊 Sameple Execution
+
+<img width="1917" height="635" alt="image" src="https://github.com/user-attachments/assets/27fdb429-4e12-4987-9a77-139e5033810f" />
+
 
 ---
 
